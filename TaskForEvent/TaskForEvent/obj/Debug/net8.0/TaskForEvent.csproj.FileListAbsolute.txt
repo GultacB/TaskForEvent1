@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\bin\Debug\net8.0\TaskForEvent.exe
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\bin\Debug\net8.0\TaskForEvent.deps.json
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\bin\Debug\net8.0\TaskForEvent.runtimeconfig.json
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\bin\Debug\net8.0\TaskForEvent.dll
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\bin\Debug\net8.0\TaskForEvent.pdb
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\TaskForEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\TaskForEvent.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\TaskForEvent.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\TaskForEvent.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\TaskForEvent.sourcelink.json
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\TaskForEvent.dll
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\refint\TaskForEvent.dll
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\TaskForEvent.pdb
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\TaskForEvent.genruntimeconfig.cache
+C:\Users\User\source\repos\TaskForEvent\TaskForEvent\obj\Debug\net8.0\ref\TaskForEvent.dll
